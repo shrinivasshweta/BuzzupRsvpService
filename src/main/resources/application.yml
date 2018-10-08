@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/rsvpDB
+      username: shweta
+      password: Root@123
+      database: rsvpDB
+      port: 27017
+      host: localhost
+server:
+  port: 8081
